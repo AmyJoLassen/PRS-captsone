@@ -1,6 +1,9 @@
 USE MASTER
 Go
 
+DROP DATABASE IF EXISTS prs
+GO
+
 CREATE DATABASE prs_capstone
 
 USE prs_capstone;
